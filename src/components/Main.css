@@ -1,0 +1,14 @@
+.main__lable{
+    color: #FABB51;
+}
+.main__btn{
+    background-color: #FABB51;
+    width: 100%;
+    /* padding: 10; */
+    margin: 3px;
+    border: none;
+    border-radius: 3px;
+}
+.main{
+    background-color : #F7F7F7
+}
